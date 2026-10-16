@@ -23,7 +23,7 @@ A motivated and technology-driven second-year engineering student passionate abo
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=flat-square)
 ![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![QSim](https://img.shields.io/badge/QSim-Quantum%20Simulator-6A5ACD?style=flat-square)
+![QSPICE](https://img.shields.io/badge/QSPICE-Circuit%20Simulation-00599C?style=flat-square)
 
 
 
