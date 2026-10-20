@@ -10,7 +10,7 @@ A motivated and technology-driven second-year engineering student passionate abo
 - 📫 Reach me at: [**wthakurprsh2@gmail.com**](mailto:wthakurprsh2@gmail.com)
 - ⚡ Fun fact: I often find myself curious about how everyday technology works behind the scenes.
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies I’m Exploring
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
