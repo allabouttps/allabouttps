@@ -3,11 +3,11 @@
 A motivated and technology-driven second-year engineering student passionate about continuous learning, problem-solving, and exploring opportunities across electronics, embedded systems, VLSI, and software development.
 
 - 🔭 I'm working on continuously improving my academic knowledge, strengthening my technical skills, and exploring new technologies.
-- 🌱 I'm exploring **Analog & Digital VLSI, Embedded Systems, Communication Systems, Hardware Design, C/C++, DSA, Software Development**.
+- 🌱 I'm exploring **Core ECE, C/C++, DSA, Software Development**.
 - 👯 I'm looking to collaborate on electronics, VLSI, embedded systems, robotics, and software projects.
 - 🤔 I'm continuously improving my programming, circuit design, and problem-solving skills.
 - 💬 Ask me about ECE fundamentals, embedded systems, programming, emerging technologies, and project ideas.
-- 📫 Reach me at: [**workthakurpr@gmail.com**](mailto:workthakurpr@gmail.com)
+- 📫 Reach me at: [**wthakurprsh2@gmail.com**](mailto:wthakurprsh2@gmail.com)
 - ⚡ Fun fact: I often find myself curious about how everyday technology works behind the scenes.
 
 ### 🛠️ Tools & Technologies
