@@ -31,7 +31,7 @@ A motivated and technology-driven second-year engineering student passionate abo
 
 [**ESP32 Rover Robotic Arm System**](https://github.com/allabouttps/esp32-rover-robotic-arm-system)
 
-A collaborative academic project featuring a four-wheel ESP32 rover with a multi-servo robotic arm, wireless web control, record-and-playback functionality, and ultrasonic distance detection.
+A collaborative academic project featuring a four-wheel ESP32 rover with a multi-servo robotic arm, wireless web control, record-and-playback functionality, and sensors.
 
 ### 📊 GitHub Stats
 
